@@ -25,7 +25,7 @@ A multilingual, offline-first web application for sharing and collecting traditi
 - Clone this repo
 - Install dependencies: `pip install -r requirements.txt`
 - Run locally: `streamlit run app.py`
-- Deploy on [Hugging Face Spaces](https://huggingface.co/spaces)
+- Deploy on Hugging Face Spaces : https://huggingface.co/spaces/Ashwin09/indian_recipe_exchange/tree/main
 
 ## Contributing
 Pull requests and suggestions welcome! Please help us build a diverse, inclusive recipe corpus for India.

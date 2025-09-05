@@ -1,0 +1,20 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-python.black-formatter",
+        "ms-python.flake8",
+        "ms-python.isort",
+        "matangover.mypy",
+        "njpwerner.autodocstring",
+        "streetsidesoftware.code-spell-checker",
+        "eamodio.gitlens",
+        "github.vscode-pull-request-github",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-vsliveshare.vsliveshare",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint"
+    ]
+}
